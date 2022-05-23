@@ -1,11 +1,20 @@
 [
-    {
-      "id": 1,
-      "name": "OG Emoji pack",
-      "price": "0.09",
-      "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
-      "image_url": "https://i.imgur.com/rVD8bjt.png",
-      "filename": "Emojis.zip",
-      "hash": "QmWWH69mTL66r3H8P4wUn24t1L5pvdTJGUTKBqT11KCHS5"
-    }
-  ]
+  {
+    "id": 1,
+    "name": "OG Emoji pack",
+    "price": "0.09",
+    "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
+    "image_url": "https://i.imgur.com/rVD8bjt.png",
+    "filename": "Emojis.zip",
+    "hash": "QmWWH69mTL66r3H8P4wUn24t1L5pvdTJGUTKBqT11KCHS5"
+  },
+  {
+    "id": 2,
+    "name": "yooo ",
+    "price": ".001",
+    "image_url": "https://camo.githubusercontent.com/627632fae4ad74bf23a5df7125075aa2e3b2c2e1cb23e4a86d1e84dd188bf61d/68747470733a2f2f6861636b6d642e696f2f5f75706c6f6164732f536b516943635550632e706e67",
+    "description": "TEST",
+    "filename": "80fc995b987599005fc8e3116d52ea3f.ico.zip",
+    "hash": "QmUVCWYH9Xm4bbiR4X6JqVz76N9Xs41KZgqkVraTmqi9nd"
+  }
+]
