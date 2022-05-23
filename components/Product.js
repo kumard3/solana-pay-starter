@@ -1,7 +1,6 @@
 import React from "react";
 import styles from "../styles/Product.module.css";
 import Buy from "./Buy";
-import IPFSDownload from './IpfsDownload';
 
 export default function Product({ product }) {
   const { id, name, price, description, image_url } = product;
